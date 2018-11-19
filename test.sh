@@ -1,3 +1,3 @@
 #!/bin/bash
-cd ../service/Services
+cd openIDP/service/Services
 mvn clean install
