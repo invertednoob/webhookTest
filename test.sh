@@ -1,3 +1,3 @@
 #!/bin/bash
 cd openIDP/dsl
-gradle build
+gradle build --scan
