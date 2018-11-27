@@ -1,4 +1,5 @@
 #!/bin/bash
 cd openIDP/dsl
-libs_download.sh
+pwd
+sh libs_download.sh
 gradle build
